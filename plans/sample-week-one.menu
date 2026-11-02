@@ -1,0 +1,33 @@
+---
+title: "Sample Week One"
+---
+
+> Editable example, not a supplied schedule. Review recipe warnings before shopping.
+
+== Monday ==
+
+@./recipes/tom-kha-gai-soup{1%servings}
+
+== Tuesday ==
+
+@./recipes/greek-chicken-gyros-with-tzatziki{1%servings}
+
+== Wednesday ==
+
+@./recipes/chicken-buddha-bowls-with-ginger-soy-vinaigrette{1%servings}
+
+== Thursday ==
+
+@./recipes/balsamic-caprese-grilled-steak{1%servings}
+
+== Friday ==
+
+@./recipes/sesame-soy-beef-bowls{1%servings}
+
+== Saturday ==
+
+@./recipes/burrito-bowls{1%servings}
+
+== Sunday ==
+
+@./recipes/creamy-turmeric-chicken{1%servings}

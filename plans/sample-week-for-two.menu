@@ -1,0 +1,33 @@
+---
+title: "Sample Week For Two"
+---
+
+> Editable example, not a supplied schedule. Review recipe warnings before shopping.
+
+== Monday ==
+
+@./recipes/garlic-butter-steak-linguine{2%servings}
+
+== Tuesday ==
+
+@./recipes/grilled-chicken-with-pineapple-salsa{2%servings}
+
+== Wednesday ==
+
+@./recipes/korean-bbq-meatballs-with-spicy-mayo{2%servings}
+
+== Thursday ==
+
+@./recipes/miso-mushroom-and-leek-pasta{2%servings}
+
+== Friday ==
+
+@./recipes/korean-beef-bulgogi-bowl-with-creamy-gochujang{2%servings}
+
+== Saturday ==
+
+@./recipes/miso-glazed-salmon{2%servings}
+
+== Sunday ==
+
+@./recipes/white-people-taco-night{2%servings}
